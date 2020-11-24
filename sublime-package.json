@@ -336,7 +336,8 @@
                   "completion",
                   "colorProvider",
                   "documentHighlight",
-                  "signatureHelp"
+                  "signatureHelp",
+                  "codeAction"
                 ]
               },
               "uniqueItems": true,
